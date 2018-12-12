@@ -39,7 +39,7 @@ And finally the wrapper clang script:
 git clone https://github.com/viniciusmorgado/musl-clang
 ```
 ```
-cd /musl-clang
+cd musl-clang
 ```
 ```
 sudo mv musl-clang /usr/local/musl/bin/
