@@ -57,7 +57,7 @@ Now you can use musl-clang and musl-gcc for compile C software with GCC and LLVM
 
 ## Using script:
 
-### Sintaxe Clang/LLVM+musl:
+### Syntax Clang/LLVM+musl:
 
 Compiling software in C with Clang/LLVM+Musl:
 
@@ -67,7 +67,7 @@ musl-clang -o <binary-name> <source.c>
   example: musl-clang -o HelloWorld main.c
 ```
 
-### Sintaxe GCC+musl
+### Syntax GCC+musl
 
 Compiling software in C with GCC+musl:
 
