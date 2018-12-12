@@ -22,11 +22,14 @@ Fedora does not have the musl package by default in its repositories, I've chose
 
 ```
 sudo dnf install git
-
+```
+```
 git clone git://git.musl-libc.org/musl
-
+```
+```
 ./configure
-
+```
+```
 sudo make install clean
 ```
 
@@ -34,9 +37,11 @@ And finally the wrapper clang script:
 
 ```
 git clone https://github.com/viniciusmorgado/musl-clang
-
+```
+```
 cd /musl-clang
-
+```
+```
 sudo mv musl-clang /usr/local/musl/bin/
 ```
 
@@ -44,9 +49,9 @@ sudo mv musl-clang /usr/local/musl/bin/
 
 ```
 sudo ln -s /usr/local/musl/bin/./musl-clang
-
+```
+```
 sudo ln -s /usr/local/musl/bin/./musl-gcc
-
 ```
 Now you can use musl-clang and musl-gcc for compile C software with GCC and LLVM compiler on Fedora.
 
