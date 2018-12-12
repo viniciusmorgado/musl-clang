@@ -67,7 +67,7 @@ musl-clang -o <binary-name> <source.c>
   example: musl-clang -o HelloWorld main.c
 ```
 
-### Sintaxe gcc+musl
+### Sintaxe GCC+musl
 
 Compiling software in C with GCC+musl:
 
