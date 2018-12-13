@@ -27,6 +27,9 @@ sudo dnf install git
 git clone git://git.musl-libc.org/musl
 ```
 ```
+cd musl
+```
+```
 ./configure
 ```
 ```
@@ -46,7 +49,9 @@ sudo mv musl-clang /usr/local/musl/bin/
 ```
 
 ### Creating a symbolic link that can be accessed from any system directory.
-
+```
+cd /usr/bin
+```
 ```
 sudo ln -s /usr/local/musl/bin/./musl-clang
 ```
