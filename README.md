@@ -2,7 +2,7 @@
 
 A clang wrapper for musl C library.
 
-Observation: This is a fork of esjeon/musl-clang tested and modify for Fedora 29 - Last update 11/12/2018.
+Observation: This is a fork of esjeon/musl-clang tested and modify for Fedora 29 - Last update 13/12/2018.
 
 Tested under Fedora linux 29 with bash shell.
 
