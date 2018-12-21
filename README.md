@@ -13,7 +13,7 @@ Tested under Fedora linux 29 with bash shell.
 For use the musl-clang we need llvm/clang install on Fedora, therefore:
 
 ```
-sudo dnf install clang llvm
+sudo dnf install clang llvm make
 ```
 
 ### Install musl libc
