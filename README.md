@@ -5,8 +5,10 @@ A clang wrapper for musl C library.
 This is a equivalent to musl-gcc wrapper script, Included in official musl package, however this unofficial version is for compile software using musl+LLVM/Clang, I considere this a best combination for compile C/C++ software especially for embedded devices.
 
 Considerations:
+
 º This is a fork of esjeon/musl-clang tested and modify for Fedora 29 - Last update 13/12/2018.
-º Tested under Fedora linux 29 with bash shell.
+
+º Tested under Fedora linux 29 with bash shell (KDE Plasma, Gnome3/Workstation and Fedora LXQt).
 
 ## Installation on Fedora 29
 
