@@ -1,4 +1,4 @@
-# musl-clang for Fedora 29
+# musl-clang wrapper for Fedora 29
 
 A clang wrapper for musl C library.
 
