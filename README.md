@@ -8,7 +8,7 @@ Considerations:
 
 º This is a fork of esjeon/musl-clang tested and modify for Fedora 29 - Last update 13/12/2018.
 
-º Tested under Fedora linux 29 with bash shell (KDE Plasma, Gnome3/Workstation and Fedora LXQt).
+º Tested under Fedora linux 29 with bash shell (KDE Plasma Spin, Gnome3/Workstation and Fedora LXQt Spin).
 
 ## Installation on Fedora 29
 
