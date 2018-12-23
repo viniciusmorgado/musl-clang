@@ -10,7 +10,7 @@ Tested under Fedora linux 29 with bash shell.
 
 ### Install Clang/LLVM:
 
-For use the musl-clang we need llvm/clang install on Fedora, therefore:
+For use the musl-clang we need llvm/clang and make installed on Fedora, therefore:
 
 ```
 sudo dnf install clang llvm make
