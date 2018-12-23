@@ -10,7 +10,7 @@ Considerations:
 
 º Tested under Fedora linux 29 with bash shell (KDE Plasma Spin, Gnome3/Workstation and Fedora LXQt Spin).
 
-° If you are a user of Solus OS, please check out this most complete tutorial in the official forum:[Compile C/C++ code with LLVM/Clang+Musl on Solus](https://getsol.us/forums/viewtopic.php?f=11&t=13121)
+° If you are a user of Solus OS, please check out this most complete tutorial in the official forum: [Compile C/C++ code with LLVM/Clang+Musl on Solus](https://getsol.us/forums/viewtopic.php?f=11&t=13121)
 
 ### Install Clang/LLVM:
 
